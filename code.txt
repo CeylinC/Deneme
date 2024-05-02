@@ -1,4 +1,3 @@
 Hello World!
 input component'ini yaptım
 button component'ini yaptım
-card component'ini yaptım
